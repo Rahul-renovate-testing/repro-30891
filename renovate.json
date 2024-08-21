@@ -1,0 +1,6 @@
+{
+  "packageRules": [{
+    "matchPackagePrefixes": "xmldoc",
+    "addLabels": "xmldoc"
+  }]
+}
